@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "baseHref": "/portfolio2023/",
+            "baseHref": "/AminaNasrin_Resume/",
             "outputPath": "dist/sameema-portfolio",
             "index": "src/index.html",
             "main": "src/main.ts",
